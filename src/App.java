@@ -58,3 +58,5 @@ public class ArregloInvertido {
         System.out.println();
     }
 }
+// Rafael Antonio Espinoza Sandoval 
+// número de carnet 2024-1642U
